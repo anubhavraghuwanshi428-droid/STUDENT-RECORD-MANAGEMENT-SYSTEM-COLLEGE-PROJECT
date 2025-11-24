@@ -1,6 +1,6 @@
- # 📘 Student Record Management System
+📘 Student Record Management System
 
-## 📌 Overview
+ 📌 Overview
 The **Student Record Management System** is a beginner-friendly yet practical **Python CLI application** designed to help users manage essential student information efficiently.  
 By using a simple text-based interface, this project allows users to handle student data such as **Name**, **Course**, **CGPA**, and **State** in an organized manner.  
 It also serves as an excellent learning project for anyone looking to understand and practice core Python concepts including **functions**, **loops**, **dictionaries**, **condition checks**, and **interactive user input handling**.
@@ -9,7 +9,7 @@ This project is lightweight, easy to run, and perfect for students, educators, a
 
 ---
 
-## ⭐ Key Features
+⭐ Key Features
 - ➕ **Add Student:** Register a new student with detailed information.  
 - 🔍 **Search Student:** Find any student using their unique registration number.  
 - ✏️ **Update Details:** Modify existing student information without re-entering all fields.  
@@ -21,7 +21,7 @@ These features together create a smooth and intuitive experience, even for first
 
 ---
 
-## 🛠️ Technologies / Tools Used
+🛠️ Technologies / Tools Used
 - 🐍 **Python 3**  
 - 💻 **Command Line Interface (CLI)**  
 - 🧩 **Dictionaries** for in-memory data management  
@@ -30,7 +30,7 @@ Python’s readability and flexibility make it ideal for building simple and int
 
 ---
 
-## 🚀 How to Install and Run the Project
+🚀 How to Install and Run the Project
 1. Make sure **Python 3** is installed on your computer.  
 2. Download or clone the repository:  
    ```bash
