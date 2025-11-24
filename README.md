@@ -7,7 +7,7 @@ It also serves as an excellent learning project for anyone looking to understand
 
 This project is lightweight, easy to run, and perfect for students, educators, and developers exploring their first steps into Python-based data management systems.
 
----
+--
 
 ⭐ Key Features
 - ➕ **Add Student:** Register a new student with detailed information.  
