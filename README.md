@@ -277,6 +277,6 @@ This project is for educational purposes. Feel free to use and modify.
 
 ## 👤 Author
 
-**Suhani Singh Parihar**  
+**Anubhav Raghuwanshi**  
 B.Tech CSE (AI & ML), VIT Bhopal  
-[GitHub Profile])
+[GitHub Profile](https://github.com/anubhavraghuwanshi428-droid)
