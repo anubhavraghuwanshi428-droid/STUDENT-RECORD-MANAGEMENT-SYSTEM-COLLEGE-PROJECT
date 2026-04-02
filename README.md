@@ -83,8 +83,7 @@ Academic-Record-Management-System/
 
 1. Clone the repository:
 
-git clone https://github.com/PariRaghuwanshi1906/Academic-Record-Management-System.git
-
+git clone https://github.com/anubhavraghuwanshi428-droid/STUDENT-RECORD-MANAGEMENT-SYSTEM-COLLEGE-PROJECT.git
 
 2. Navigate to the project directory:
 
@@ -280,4 +279,4 @@ This project is for educational purposes. Feel free to use and modify.
 
 **Suhani Singh Parihar**  
 B.Tech CSE (AI & ML), VIT Bhopal  
-[GitHub Profile](https://github.com/PariRaghuwanshi1906)
+[GitHub Profile])
